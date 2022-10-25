@@ -233,7 +233,7 @@ hr {
 .P01 {
 
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
 
 
 }
@@ -242,33 +242,37 @@ hr {
     cursor: pointer;
     -webkit-text-stroke: 1px rgb(50, 50, 50);
 
-    color: #F51E5F;
+    color: #3a3a3a;
 
 
 }
 
 .P02 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
+
 }
 
 .P02:hover {
     cursor: pointer;
     -webkit-text-stroke: 1px rgb(50, 50, 50);
 
-    color: #55C595;
+    color: #3a3a3a;
+
     letter-spacing: 0px;
 
 }
 
 .P03 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
+
 }
 
 .P03:hover {
     cursor: pointer;
-    color: #F56031;
+    color: #3a3a3a;
+
     -webkit-text-stroke: 1px rgb(50, 50, 50);
 
     letter-spacing: 0px;
@@ -276,7 +280,8 @@ hr {
 
 .P04 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
+
 }
 
 .P04:hover {
@@ -289,13 +294,15 @@ hr {
 
 .P05 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
+
 
 }
 
 .P05:hover {
     cursor: pointer;
-    color: #FFCE7F;
+    color: #3a3a3a;
+
     -webkit-text-stroke: 1px rgb(50, 50, 50);
 
     letter-spacing: 0px;
@@ -304,13 +311,14 @@ hr {
 
 .P06 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
 
 }
 
 .P06:hover {
     cursor: pointer;
-    color: #270D4A;
+    color: #3a3a3a;
+
     -webkit-text-stroke: 1px rgb(50, 50, 50);
 
     letter-spacing: 0px;
@@ -318,7 +326,7 @@ hr {
 
 .P07 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
 
 }
 
@@ -326,13 +334,14 @@ hr {
     cursor: pointer;
     -webkit-text-stroke: 1px rgb(50, 50, 50);
 
-    color: #F7E7CE;
+    color: #3a3a3a;
+
     letter-spacing: 0px;
 }
 
 .P08 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
 
 }
 
@@ -340,13 +349,14 @@ hr {
     cursor: pointer;
     -webkit-text-stroke: 1px rgb(50, 50, 50);
 
-    color: #8D8C70;
+    color: #3a3a3a;
+
     letter-spacing: 0px;
 }
 
 .P09 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
 }
 
 .P09:hover {
@@ -359,7 +369,7 @@ hr {
 
 .P10 {
     -webkit-text-stroke: 1px black;
-    transition: all 0.2s ease-out;
+    transition: all 0.35s ease-in-out;
 
 }
 
